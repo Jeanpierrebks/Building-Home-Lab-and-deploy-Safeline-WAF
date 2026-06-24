@@ -18,7 +18,7 @@ The SafeLine Web Application Firewall Deployment project aimed to build a fully 
 - Ubuntu: Primary Linux distribution used to host the Apache web server and SafeLine WAF deployment.
 - Kali Linux: Security-focused Linux distribution used for testing and validating WAF configurations against simulated attack traffic.
 - Apache HTTP Server: Open-source web server installed and configured to serve as the protected web application behind the SafeLine WAF.
-- OpenSSL — Cryptographic toolkit used to generate self-signed certificates and enable HTTPS encryption for secured web communications.
+- OpenSSL: Cryptographic toolkit used to generate self-signed certificates and enable HTTPS encryption for secured web communications.
 - Linux CLI (Bash): Primary interface used across both Ubuntu and Kali Linux for system configuration, service management, and deployment tasks.
 
 ### Steps

@@ -1,4 +1,4 @@
-# Building-Home-Lab-and-deploy-Safeline-WAP-firewall
+# Building-Home-Lab-and-deploy-Safeline-WAF
 
 ## Objective
 The SafeLine Web Application Firewall Deployment project aimed to build a fully functional security environment from the ground up, simulating how organizations protect web-facing infrastructure against modern threats. The primary focus was on deploying and configuring SafeLine WAF within a virtualized lab, where I provisioned Ubuntu and Kali Linux virtual machines in VirtualBox, stood up an Apache web server, and secured communications by generating and implementing self-signed certificates using OpenSSL. This hands-on experience was designed to deepen my understanding of web application security architecture, certificate management, and the operational processes involved in positioning a WAF to inspect, filter, and defend against malicious web traffic in a real-world enterprise environment.
